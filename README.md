@@ -1,5 +1,4 @@
 ```
--------------------------
 🏫 MSCS Student @ GT
 🔎 Into building infrastructure and applied machine learning
 🌱 Learning about distributed systems
